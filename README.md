@@ -51,3 +51,5 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay-37&theme=tokyonight" alt="tanmay-37" />
 </p>
+
+![snake gif](https://github.com/tanmay-37/tanmay-37/blob/output/github-snake-dark.svg)
