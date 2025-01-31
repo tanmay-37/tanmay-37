@@ -52,4 +52,8 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay-37&theme=tokyonight" alt="tanmay-37" />
 </p>
 
-![snake gif](https://github.com/tanmay-37/tanmay-37/blob/output/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tanmay-37/tanmay-37/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tanmay-37/tanmay-37/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/tanmay-37/tanmay-37/blob/output/github-snake.svg" />
+</picture>
