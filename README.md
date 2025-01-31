@@ -19,6 +19,7 @@
 ![Sass](https://img.shields.io/badge/Sass-%231a1b26.svg?style=for-the-badge&logo=sass&logoColor=%23f7768e) 
 ![NPM](https://img.shields.io/badge/NPM-%231a1b26.svg?style=for-the-badge&logo=npm&logoColor=%23e0af68)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%231a1b26.svg?style=for-the-badge&logo=javascript&logoColor=%23e0af68) 
+![MySQL](https://img.shields.io/badge/MySQL-%231a1b26.svg?style=for-the-badge&logo=mysql&logoColor=%23f7768e)
 ![Java](https://img.shields.io/badge/Java-%231a1b26.svg?style=for-the-badge&logo=openjdk&logoColor=%23ff9e64) 
 ![Python](https://img.shields.io/badge/Python-%231a1b26.svg?style=for-the-badge&logo=python&logoColor=%23ffdd54) 
 ![React](https://img.shields.io/badge/React-%231a1b26.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
