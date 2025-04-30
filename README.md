@@ -52,7 +52,7 @@
 </table>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay-37&theme=tokyonight" alt="tanmay-37" />
+ <img align="center" src="https://streak-stats.demolab.com/?user=tanmay-37&theme=tokyonight" alt="tanmay-37" />
 </p>
 
 <picture>
