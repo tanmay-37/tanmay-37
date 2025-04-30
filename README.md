@@ -3,12 +3,14 @@
 
 <h3 align="left">Connect with me on</h3>
 <p align="left">
-<a href="https://twitter.com/what_a_draag03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pahurkarsanchit" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tanmay-talekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanchitpahurkar" height="30" width="40" /></a>
-<a href="https://instagram.com/what_a_draag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanchit_p23" height="30" width="40" /></a>
-
-  📫 How to reach me **t.tanmay0307@gmail.com**
+<a href="https://twitter.com/what_a_draag03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tanmay-talekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://instagram.com/what_a_draag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
+
+📫 How to reach me: **t.tanmay0307@gmail.com**
+
+---
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-%231a1b26.svg?style=for-the-badge&logo=c&logoColor=%237aa2f7) 
@@ -36,19 +38,19 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%231a1b26.svg?style=for-the-badge&logo=plotly&logoColor=%23bb9af7)
 ![Ultralytics](https://img.shields.io/badge/Ultralytics-%231a1b26.svg?style=for-the-badge&logo=ultralytics&logoColor=%237aa2f7)
 
-
 ---
 
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/?username=tanmay-37&show_icons=true&title_color=7aa2f7&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&icon_color=bb9af7&hide_title=true&count_private=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=tanmay-37&show_icons=true&theme=tokyonight&count_private=true" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/top-langs/?username=tanmay-37&layout=compact&show_icons=true&title_color=7aa2f7&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&icon_color=bb9af7&count_private=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay-37&layout=compact&theme=tokyonight&count_private=true" />
     </td>
   </tr>
 </table>
+
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay-37&theme=tokyonight" alt="tanmay-37" />
 </p>
