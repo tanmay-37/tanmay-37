@@ -43,16 +43,16 @@
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=tanmay-37&show_icons=true&theme=tokyonight&count_private=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=tanmay-37&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay-37&layout=compact&theme=tokyonight&count_private=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay-37&layout=compact&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>
 
 <p align="center">
- <img align="center" src="https://streak-stats.demolab.com/?user=tanmay-37&theme=tokyonight" alt="tanmay-37" />
+  <img align="center" src="https://streak-stats.demolab.com?user=tanmay-37&theme=tokyonight&hide_border=true" alt="tanmay-37" />
 </p>
 
 <picture>
